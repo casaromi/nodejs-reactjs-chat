@@ -1,4 +1,4 @@
-# nodejs-reactjs-chat
+# nodejs-reactjs-chat -> reffrance video: https://www.youtube.com/watch?v=y3iWpRRt_sI
 
 Instructions to run:
 
