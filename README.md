@@ -1,4 +1,5 @@
-# nodejs-reactjs-chat -> reffrance video: https://www.youtube.com/watch?v=Fzv-rgwcFKk
+# nodejs-reactjs-chat -> reffrance video/ tutorial: https://www.youtube.com/watch?v=Fzv-rgwcFKk
+
 
 Instructions to run:
 
